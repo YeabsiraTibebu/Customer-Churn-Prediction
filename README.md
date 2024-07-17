@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d5448873-f279-47a2-8c16-6ea89e5c3e17)# Customer-Churn-Prediction
+# Customer-Churn-Prediction
+
 ## kaggle: https://www.kaggle.com/code/yeabsiratibebu/notebook-eda
 
 # Tasks
